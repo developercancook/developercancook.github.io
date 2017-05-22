@@ -1,0 +1,38 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:  Cenaz
+Version:  1.0
+Assigned to:  WebNik
+Primary use:  Cenaz
+-------------------------------------------------------------------*/
+
+
+/* FONTS*/
+@import 'css.css';
+@import 'font-awesome.min.css';
+@import 'style_1.css';
+@import 'style.css';
+@import 'pe-icon-7-stroke.css';
+@import 'flaticon.css';
+
+
+
+/* PLUGIN CSS */
+
+@import 'bootstrap.css';                /* bootstrap */
+@import 'header.css';                /* header */
+@import 'yamm.css';                /* header */
+@import 'slider-pro.css';         /* main slider */
+@import 'owl.theme.css';                 /* other sliders */
+@import 'magnific-popup.css';            /* modal */
+@import 'animate.css';                        /* animations */
+@import 'component.css';         /* animations */
+
+
+
+/* MAIN CSS */
+
+@import 'theme.css';
+@import 'color.css';
+@import 'responsive.css';
